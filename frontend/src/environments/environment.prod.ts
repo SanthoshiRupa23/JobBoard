@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://jobboard-api.example.com/api'
+  apiUrl: 'https://jobboard-rum7.onrender.com/api'
 };
